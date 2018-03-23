@@ -5,6 +5,7 @@ if a in range(1, 20):
 	print('You are too young, move on')
 elif a in range(21, 60):
 	print('You are able to drink')
+	print("access key = ASIA980843584857487435874")
 elif a in range(61, 1050):
 	print('You are too old, go home')
 else:
