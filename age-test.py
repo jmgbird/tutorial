@@ -2,10 +2,10 @@
 a = int(input("How old are you , "))
 print(a)
 if a in range(1, 20):
-	print('You are too young, move on')
+	print('You are too young, go home')
 elif a in range(21, 60):
 	print('You are able to drink')
-	print("access key = ASIA980843584857487435874")
+	print("access key = AKIA98084358485748745")
 elif a in range(61, 1050):
 	print('You are too old, go home')
 else:
